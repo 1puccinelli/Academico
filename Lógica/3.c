@@ -2,10 +2,9 @@
 #include <math.h>
 
 int main() {
-    float raio = 5;
-    float n = 3.14;
-    
-    float area = n * pow(raio, 2);
+    double raio = 5; // float e double são a mesma coisa só que com double sendo bem mais preciso
+    double pi = 3.14159;
+    double area = pi * pow(raio, 2);
 
     printf("%f", area);
 
