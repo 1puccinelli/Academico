@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+//Lucas Vinicius de Souza
 
 int main () {
 
