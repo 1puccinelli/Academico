@@ -1,5 +1,3 @@
-markdown
-
 # Faculdade – Exercícios em C 👨‍💻
 
 Este repositório reúne códigos escritos em linguagem **C** como parte da jornada acadêmica no curso de **Ciência da Computação**. Os arquivos aqui presentes abordam temas básicos e intermediários da linguagem, utilizados para prática de lógica de programação, estrutura de dados e funções.
@@ -22,12 +20,12 @@ Os códigos incluem, mas não se limitam a:
    git clone https://github.com/lucasvini-souza/Faculdade.git
 Acesse o diretório:
 
-bash
+cmd
 
 cd Faculdade
 Compile o código desejado:
 
-bash
+cmd
 
 gcc nome_do_arquivo.c -o programa
 ./programa
