@@ -8,27 +8,29 @@ Os códigos incluem, mas não se limitam a:
 
 - Operações matemáticas básicas (soma, subtração, multiplicação, divisão)
 - Uso de variáveis e tipos primitivos
-- Estruturas condicionais (`if`, `else`)
-- Estruturas de repetição (`for`, `while`)
+- Estruturas condicionais (`if`, `else`, `switch`)
+- Estruturas de repetição (`for`, `while`, `do-while`)
 - Funções em C (declaração, chamada e retorno)
 - Entrada e saída de dados com `scanf` e `printf`
 
 ## 🚀 Como Executar
 
 1. Clone este repositório:
-   ```bash
+   ```cmd
    git clone https://github.com/lucasvini-souza/Faculdade.git
 Acesse o diretório:
 
-cmd
+   ```cmd
 
-cd Faculdade
-Compile o código desejado:
+   cd Faculdade
+```
+   Compile o código desejado:
 
-cmd
+   ```cmd
 
-gcc nome_do_arquivo.c -o programa
-./programa
+   gcc nome_do_arquivo.c -o programa
+   ./programa
+```
 Substitua nome_do_arquivo.c pelo nome do arquivo que deseja compilar.
 
 🧠 Objetivo
