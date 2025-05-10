@@ -1,4 +1,4 @@
-# Faculdade – Exercícios em C 👨‍💻
+# Academico – Exercícios em C 👨‍💻
 
 Este repositório reúne códigos escritos em linguagem **C** como parte da jornada acadêmica no curso de **Ciência da Computação**. Os arquivos aqui presentes abordam temas básicos e intermediários da linguagem, utilizados para prática de lógica de programação, estrutura de dados e funções.
 
